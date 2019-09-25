@@ -30,17 +30,17 @@
 
 #define RTE_USART1 1
 #define RTE_USART1_DMA_EN 0
-#define RTE_USART2 0
+#define RTE_USART2 1
 #define RTE_USART2_DMA_EN 0
-#define RTE_USART3 0
+#define RTE_USART3 1
 #define RTE_USART3_DMA_EN 0
-#define RTE_USART4 0
+#define RTE_USART4 1
 #define RTE_USART4_DMA_EN 0
-#define RTE_USART5 0
+#define RTE_USART5 1
 #define RTE_USART5_DMA_EN 0
-#define RTE_USART6 0
+#define RTE_USART6 1
 #define RTE_USART6_DMA_EN 0
-#define RTE_USART7 0
+#define RTE_USART7 1
 #define RTE_USART7_DMA_EN 0
 #define RTE_USART8 1
 #define RTE_USART8_DMA_EN 0
